@@ -38,8 +38,8 @@ Before running the project, make sure you have the required libraries:
    - Download it from the [stb repository](https://github.com/nothings/stb/blob/master/stb_image.h).
 
 ### Command keyborad
-- Use <kbd>S</kbd> and scroll mouse for resize object
-- Use <kbd>G</kbd> and <kbd>UP</kbd> / <kbd>DOWN</kbd> / <kbd>LEFT</kbd> / <kbd>RIGHT</kbd> for move object
+- Use <kbd>S</kbd> + **mouse scroll** for resize object
+- Use <kbd>G</kbd> + <kbd>UP</kbd> / <kbd>DOWN</kbd> / <kbd>LEFT</kbd> / <kbd>RIGHT</kbd> for move object
   
 ### Visual Studio Setup
 
