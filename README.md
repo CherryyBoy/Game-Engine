@@ -37,6 +37,10 @@ Before running the project, make sure you have the required libraries:
 2. **stb_image.h**: A single-header library to load images.
    - Download it from the [stb repository](https://github.com/nothings/stb/blob/master/stb_image.h).
 
+### Command keyborad
+- Use <kbd>S</kbd> and scroll mouse for resize object
+- Use <kbd>G</kbd> and <kbd>UP</kbd> / <kbd>DOWN</kbd> / <kbd>LEFT</kbd> / <kbd>RIGHT</kbd> for move object
+  
 ### Visual Studio Setup
 
 1. Clone this repository:
